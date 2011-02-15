@@ -23,6 +23,6 @@ begin
     end if ;
   end process ; -- p1
   
-  hz1 <= '1' when count = std_logic_vector(to_unsigned(1000000, 19)) else '0';
+  hz1 <= '1' when count = std_logic_vector(to_unsigned(1000000, 19)) or hz2 ='1' else '0';
   hz2 <= '1' when count = std_logic_vector(to_unsigned(500000, 19)) else '0';
 end architecture;  -- arch

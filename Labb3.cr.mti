@@ -26,15 +26,13 @@ QuestaSim-64 vcom 6.5b Compiler 2009.05 May 21 2009
 -- Compiling entity bcd59
 -- Compiling architecture arch of bcd59
 
-} {} {}} /chalmers/users/jesjos/VHDL/Labb3/genhz.vhd {1 {vcom -work work -2002 -explicit -vopt /chalmers/users/jesjos/VHDL/Labb3/genhz.vhd
+} {} {}} /chalmers/users/jesjos/VHDL/Labb3/genhztest.vhd {1 {vcom -work work -2002 -explicit -vopt /chalmers/users/jesjos/VHDL/Labb3/genhztest.vhd
 QuestaSim-64 vcom 6.5b Compiler 2009.05 May 21 2009
 -- Loading package standard
 -- Loading package std_logic_1164
 -- Loading package numeric_std
--- Loading package std_logic_arith
--- Loading package std_logic_unsigned
--- Compiling entity genhz
--- Compiling architecture arch of genhz
+-- Compiling entity genhztest
+-- Compiling architecture arch of genhztest
 
 } {} {}} /chalmers/users/jesjos/VHDL/Labb3/mealy.vhd {1 {vcom -work work -2002 -explicit -vopt /chalmers/users/jesjos/VHDL/Labb3/mealy.vhd
 QuestaSim-64 vcom 6.5b Compiler 2009.05 May 21 2009
