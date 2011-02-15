@@ -1,0 +1,16 @@
+library ieee ;
+  use ieee.std_logic_1164.all ;
+  use ieee.numeric_std.all ;
+
+entity genhz is
+  port (
+    clk : in std_logic;
+    hz1, hz2 : out std_logic    
+  ) ;
+end entity ; -- genhz
+
+architecture arch of genhz is
+
+begin
+
+end architecture ; -- arch

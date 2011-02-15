@@ -1,0 +1,1997 @@
+# //  QuestaSim-64 6.5b May 21 2009 Linux 2.6.36-02063602-generic
+# //
+# //  Copyright 1991-2009 Mentor Graphics Corporation
+# //              All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND 
+# //  PROPRIETARY INFORMATION WHICH IS THE PROPERTY
+# //  OF MENTOR GRAPHICS CORPORATION OR ITS LICENSORS
+# //  AND IS SUBJECT TO LICENSE TERMS.
+# //
+project open /chalmers/users/jesjos/VHDL/Labb3/Labb3.mpf
+# Loading project Labb3
+# after#261
+# Compile of mealy.vhd was successful.
+# Compile of tb1mealy.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+do tb1mealy.do
+# ** Error: No Design Loaded!
+# Error in macro ./tb1mealy.do line 4
+# No Design Loaded!
+#     while executing
+# "restartCmd -f nowave"
+#     ("eval" body line 1)
+#     invoked from within
+# "eval restartCmd $args"
+#     (procedure "restart" line 14)
+#     invoked from within
+# "restart -f nowave"
+vsim -voptargs=+acc work.tb1mealy
+# vsim -voptargs=+acc work.tb1mealy 
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.tb1mealy(test)#1
+# Loading work.mealy(arch)#1
+do tb1mealy.do
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.tb1mealy(test)#1
+# Loading work.mealy(arch)#1
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
+do tb1mealy.do
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.tb1mealy(test)#1
+# Loading work.mealy(arch)#1
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
+do tb1mealy.do
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.tb1mealy(test)#1
+# Loading work.mealy(arch)#1
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
+do tb1mealy.do
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.tb1mealy(test)#1
+# Loading work.mealy(arch)#1
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
+do tb1mealy.do
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.tb1mealy(test)#1
+# Loading work.mealy(arch)#1
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
+# Compile of mealy.vhd was successful.
+# Compile of tb1mealy.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+do tb1mealy.do
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.tb1mealy(test)#1
+# Loading work.mealy(arch)#1
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
+do tb1mealy.do
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.tb1mealy(test)#1
+# Loading work.mealy(arch)#1
+# Invalid window pattern: clk
+# Invalid window pattern: x
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
+do tb1mealy.do
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.tb1mealy(test)#1
+# Loading work.mealy(arch)#1
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
+do tb1mealy.do
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.tb1mealy(test)#1
+# Loading work.mealy(arch)#1
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
+# Compile of mealy.vhd was successful.
+# Compile of tb1mealy.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of mealy.vhd was successful.
+# Compile of tb1mealy.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+do tb1mealy.do
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.tb1mealy(test)#1
+# Loading work.mealy(arch)#1
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
+do tb1mealy.do
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.tb1mealy(test)#1
+# Loading work.mealy(arch)#1
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
+# Compile of mealy.vhd was successful.
+# Compile of tb1mealy.vhd was successful.
+# Compile of tb2mealy.vhd failed with 1 errors.
+# 3 compiles, 1 failed with 1 error. 
+# Compile of mealy.vhd was successful.
+# Compile of tb1mealy.vhd was successful.
+# Compile of tb2mealy.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+vsim -voptargs=+acc work.tb2mealy
+# vsim -voptargs=+acc work.tb2mealy 
+# ** Note: (vsim-3812) Design is being optimized...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.tb2mealy(test)#1
+# Loading work.mealy(arch)#1
+# Compile of mealy.vhd was successful.
+# Compile of tb1mealy.vhd was successful.
+# Compile of tb2mealy.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+do tbmealy.do
+# Cannot open macro file: tbmealy.do
+do tb2mealy.do
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
+# ** Note: Error at time 350
+#    Time: 350 ns  Iteration: 0  Instance: /tb2mealy
+# ** Note: Error at time 400
+#    Time: 400 ns  Iteration: 0  Instance: /tb2mealy
+# ** Note: Error at time 450
+#    Time: 450 ns  Iteration: 0  Instance: /tb2mealy
+# ** Note: Error at time 150
+#    Time: 500 ns  Iteration: 0  Instance: /tb2mealy
+# ** Note: Error at time 350
+#    Time: 850 ns  Iteration: 0  Instance: /tb2mealy
+# ** Note: Error at time 400
+#    Time: 900 ns  Iteration: 0  Instance: /tb2mealy
+# ** Note: Error at time 450
+#    Time: 950 ns  Iteration: 0  Instance: /tb2mealy
+# ** Note: Error at time 150
+#    Time: 1 us  Iteration: 0  Instance: /tb2mealy
+# ** Note: Error at time 150
+#    Time: 1150 ns  Iteration: 0  Instance: /tb2mealy
+# ** Note: Error at time 200
+#    Time: 1200 ns  Iteration: 0  Instance: /tb2mealy
+# ** Note: Error at time 250
+#    Time: 1250 ns  Iteration: 0  Instance: /tb2mealy
+# ** Note: Error at time 350
+#    Time: 1350 ns  Iteration: 0  Instance: /tb2mealy
+# ** Note: Error at time 400
+#    Time: 1400 ns  Iteration: 0  Instance: /tb2mealy
+# ** Note: Error at time 450
+#    Time: 1450 ns  Iteration: 0  Instance: /tb2mealy
+# ** Note: Error at time 150
+#    Time: 1500 ns  Iteration: 0  Instance: /tb2mealy
+# ** Note: Error at time 150
+#    Time: 1650 ns  Iteration: 0  Instance: /tb2mealy
+# ** Note: Error at time 350
+#    Time: 1850 ns  Iteration: 0  Instance: /tb2mealy
+# ** Note: Error at time 400
+#    Time: 1900 ns  Iteration: 0  Instance: /tb2mealy
+# ** Note: Error at time 450
+#    Time: 1950 ns  Iteration: 0  Instance: /tb2mealy
+# ** Note: Error at time 150
+#    Time: 2 us  Iteration: 0  Instance: /tb2mealy
+# ** Note: Error at time 350
+#    Time: 2350 ns  Iteration: 0  Instance: /tb2mealy
+# ** Note: Error at time 400
+#    Time: 2400 ns  Iteration: 0  Instance: /tb2mealy
+# ** Note: Error at time 450
+#    Time: 2450 ns  Iteration: 0  Instance: /tb2mealy
+# ** Note: Error at time 150
+#    Time: 2500 ns  Iteration: 0  Instance: /tb2mealy
+# ** Note: Error at time 350
+#    Time: 2850 ns  Iteration: 0  Instance: /tb2mealy
+# ** Note: Error at time 400
+#    Time: 2900 ns  Iteration: 0  Instance: /tb2mealy
+# ** Note: Error at time 450
+#    Time: 2950 ns  Iteration: 0  Instance: /tb2mealy
+# ** Note: Error at time 150
+#    Time: 3 us  Iteration: 0  Instance: /tb2mealy
+do tb2mealy.do
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
+# ** Note: Error at time 350
+#    Time: 350 ns  Iteration: 0  Instance: /tb2mealy
+# ** Note: Error at time 400
+#    Time: 400 ns  Iteration: 0  Instance: /tb2mealy
+# ** Note: Error at time 450
+#    Time: 450 ns  Iteration: 0  Instance: /tb2mealy
+# ** Note: Error at time 150
+#    Time: 500 ns  Iteration: 0  Instance: /tb2mealy
+# ** Note: Error at time 350
+#    Time: 850 ns  Iteration: 0  Instance: /tb2mealy
+# ** Note: Error at time 400
+#    Time: 900 ns  Iteration: 0  Instance: /tb2mealy
+# ** Note: Error at time 450
+#    Time: 950 ns  Iteration: 0  Instance: /tb2mealy
+# ** Note: Error at time 150
+#    Time: 1 us  Iteration: 0  Instance: /tb2mealy
+# ** Note: Error at time 150
+#    Time: 1150 ns  Iteration: 0  Instance: /tb2mealy
+# ** Note: Error at time 200
+#    Time: 1200 ns  Iteration: 0  Instance: /tb2mealy
+# ** Note: Error at time 250
+#    Time: 1250 ns  Iteration: 0  Instance: /tb2mealy
+# ** Note: Error at time 350
+#    Time: 1350 ns  Iteration: 0  Instance: /tb2mealy
+# ** Note: Error at time 400
+#    Time: 1400 ns  Iteration: 0  Instance: /tb2mealy
+# ** Note: Error at time 450
+#    Time: 1450 ns  Iteration: 0  Instance: /tb2mealy
+# ** Note: Error at time 150
+#    Time: 1500 ns  Iteration: 0  Instance: /tb2mealy
+# ** Note: Error at time 150
+#    Time: 1650 ns  Iteration: 0  Instance: /tb2mealy
+# ** Note: Error at time 350
+#    Time: 1850 ns  Iteration: 0  Instance: /tb2mealy
+# ** Note: Error at time 400
+#    Time: 1900 ns  Iteration: 0  Instance: /tb2mealy
+# ** Note: Error at time 450
+#    Time: 1950 ns  Iteration: 0  Instance: /tb2mealy
+# ** Note: Error at time 150
+#    Time: 2 us  Iteration: 0  Instance: /tb2mealy
+# ** Note: Error at time 350
+#    Time: 2350 ns  Iteration: 0  Instance: /tb2mealy
+# ** Note: Error at time 400
+#    Time: 2400 ns  Iteration: 0  Instance: /tb2mealy
+# ** Note: Error at time 450
+#    Time: 2450 ns  Iteration: 0  Instance: /tb2mealy
+# ** Note: Error at time 150
+#    Time: 2500 ns  Iteration: 0  Instance: /tb2mealy
+# ** Note: Error at time 350
+#    Time: 2850 ns  Iteration: 0  Instance: /tb2mealy
+# ** Note: Error at time 400
+#    Time: 2900 ns  Iteration: 0  Instance: /tb2mealy
+# ** Note: Error at time 450
+#    Time: 2950 ns  Iteration: 0  Instance: /tb2mealy
+# ** Note: Error at time 150
+#    Time: 3 us  Iteration: 0  Instance: /tb2mealy
+# Compile of mealy.vhd was successful.
+# Compile of tb1mealy.vhd was successful.
+# Compile of tb2mealy.vhd was successful.
+# Compile of bcd59.vhd failed with 1 errors.
+# 4 compiles, 1 failed with 1 error. 
+# Compile of bcd59.vhd failed with 1 errors.
+# Compile of bcd59.vhd failed with 1 errors.
+# Compile of bcd59.vhd was successful.
+# Compile of mealy.vhd was successful.
+# Compile of tb1mealy.vhd was successful.
+# Compile of tb2mealy.vhd was successful.
+# Compile of bcd59.vhd was successful.
+# Compile of bcd23.vhd failed with 1 errors.
+# 5 compiles, 1 failed with 1 error. 
+# Compile of mealy.vhd was successful.
+# Compile of tb1mealy.vhd was successful.
+# Compile of tb2mealy.vhd was successful.
+# Compile of bcd59.vhd was successful.
+# Compile of bcd23.vhd was successful.
+# 5 compiles, 0 failed with no errors. 
+vsim -voptargs=+acc work.bcd59
+# vsim -voptargs=+acc work.bcd59 
+# ** Note: (vsim-3812) Design is being optimized...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.bcd59(arch)#1
+do counttester.do
+# Cannot open macro file: counttester.do
+do counttester
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 100 ns  Iteration: 0  Instance: /bcd59
+do counttester
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /bcd59
+do counttester
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /bcd59
+do counttester
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /bcd59
+# Compile of bcd59.vhd failed with 1 errors.
+# Compile of bcd59.vhd was successful.
+do counttester
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.bcd59(arch)#1
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /bcd59
+# Compile of bcd59.vhd was successful.
+do counttester
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.bcd59(arch)#1
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /bcd59
+do counttester
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /bcd59
+do counttester
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /bcd59
+# Compile of bcd59.vhd was successful.
+do counttester
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.bcd59(arch)#1
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /bcd59
+# Compile of bcd59.vhd was successful.
+do counttester
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.bcd59(arch)#1
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /bcd59
+do counttester
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /bcd59
+# Compile of bcd59.vhd was successful.
+do counttester
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.bcd59(arch)#1
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /bcd59
+# Compile of mealy.vhd was successful.
+# Compile of tb1mealy.vhd was successful.
+# Compile of tb2mealy.vhd was successful.
+# Compile of bcd59.vhd failed with 1 errors.
+# Compile of bcd23.vhd was successful.
+# 5 compiles, 1 failed with 1 error. 
+# Compile of mealy.vhd was successful.
+# Compile of tb1mealy.vhd was successful.
+# Compile of tb2mealy.vhd was successful.
+# Compile of bcd59.vhd was successful.
+# Compile of bcd23.vhd was successful.
+# 5 compiles, 0 failed with no errors. 
+do counttester
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.bcd59(arch)#1
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 50 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 100 ns  Iteration: 2  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 250 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 350 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 450 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 550 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 650 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 750 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 850 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 950 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1250 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1350 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1450 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1550 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1650 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1750 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1850 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1950 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 2050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 2050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 2050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 2050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 2150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 2150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 2150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 2150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 2250 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 2350 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 2450 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 2550 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 2650 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 2750 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 2850 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 2950 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 3050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 3050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 3050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 3050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 3150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 3150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 3150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 3150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 3250 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 3350 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 3450 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 3550 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 3650 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 3750 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 3850 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 3950 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 4050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 4050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 4050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 4050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 4150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 4150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 4150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 4150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 4250 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 4350 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 4450 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 4550 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 4650 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 4750 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 4850 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 4950 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 5050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 5050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 5050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 5050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 5150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 5150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 5150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 5150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 5250 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 5350 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 5450 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 5550 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 5650 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 5750 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 5850 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 5950 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 6050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 6050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 6050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 6050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 6150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 6150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 6150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 6150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 6250 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 6350 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 6450 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 6550 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 6650 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 6750 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 6850 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 6950 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 7050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 7050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 7050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 7050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 7150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 7150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 7150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 7150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 7250 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 7350 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 7450 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 7550 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 7650 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 7750 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 7850 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 7950 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 8050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 8050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 8050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 8050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 8150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 8150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 8150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 8150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 8250 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 8350 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 8450 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 8550 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 8650 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 8750 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 8850 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 8950 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 9050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 9050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 9050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 9050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 9150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 9150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 9150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 9150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 9250 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 9350 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 9450 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 9550 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 9650 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 9750 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 9850 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 9950 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 10050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 10050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 10050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 10050 ns  Iteration: 1  Instance: /bcd59
+# Compile of mealy.vhd was successful.
+# Compile of tb1mealy.vhd was successful.
+# Compile of tb2mealy.vhd was successful.
+# Compile of bcd59.vhd was successful.
+# Compile of bcd23.vhd was successful.
+# 5 compiles, 0 failed with no errors. 
+do counttester
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.bcd59(arch)#1
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 50 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 100 ns  Iteration: 2  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 250 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 350 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 450 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 550 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 650 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 750 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 850 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 950 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1250 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1350 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1450 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1550 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1650 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1750 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1850 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1950 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 2050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 2050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 2050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 2050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 2150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 2150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 2150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 2150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 2250 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 2350 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 2450 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 2550 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 2650 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 2750 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 2850 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 2950 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 3050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 3050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 3050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 3050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 3150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 3150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 3150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 3150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 3250 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 3350 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 3450 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 3550 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 3650 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 3750 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 3850 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 3950 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 4050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 4050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 4050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 4050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 4150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 4150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 4150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 4150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 4250 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 4350 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 4450 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 4550 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 4650 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 4750 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 4850 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 4950 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 5050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 5050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 5050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 5050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 5150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 5150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 5150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 5150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 5250 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 5350 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 5450 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 5550 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 5650 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 5750 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 5850 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 5950 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 6050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 6050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 6050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 6050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 6150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 6150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 6150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 6150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 6250 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 6350 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 6450 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 6550 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 6650 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 6750 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 6850 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 6950 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 7050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 7050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 7050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 7050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 7150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 7150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 7150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 7150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 7250 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 7350 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 7450 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 7550 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 7650 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 7750 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 7850 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 7950 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 8050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 8050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 8050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 8050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 8150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 8150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 8150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 8150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 8250 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 8350 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 8450 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 8550 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 8650 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 8750 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 8850 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 8950 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 9050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 9050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 9050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 9050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 9150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 9150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 9150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 9150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 9250 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 9350 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 9450 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 9550 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 9650 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 9750 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 9850 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 9950 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 10050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 10050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 10050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 10050 ns  Iteration: 1  Instance: /bcd59
+# Compile of bcd59.vhd was successful.
+do counttester
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.bcd59(arch)#1
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 50 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 100 ns  Iteration: 2  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 250 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 350 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 450 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 550 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 650 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 750 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 850 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 950 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1250 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1350 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1450 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1550 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1650 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1750 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1850 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1950 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 2050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 2150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 2250 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 2350 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 2450 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 2550 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 2650 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 2750 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 2850 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 2950 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 3050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 3150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 3250 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 3350 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 3450 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 3550 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 3650 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 3750 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 3850 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 3950 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 4050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 4150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 4250 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 4350 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 4450 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 4550 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 4650 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 4750 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 4850 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 4950 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 5050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 5150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 5250 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 5350 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 5450 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 5550 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 5650 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 5750 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 5850 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 5950 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 6050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 6150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 6250 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 6350 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 6450 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 6550 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 6650 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 6750 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 6850 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 6950 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 7050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 7150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 7250 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 7350 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 7450 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 7550 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 7650 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 7750 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 7850 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 7950 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 8050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 8150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 8250 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 8350 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 8450 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 8550 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 8650 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 8750 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 8850 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 8950 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 9050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 9150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 9250 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 9350 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 9450 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 9550 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 9650 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 9750 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 9850 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 9950 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 10050 ns  Iteration: 1  Instance: /bcd59
+# Compile of mealy.vhd was successful.
+# Compile of tb1mealy.vhd was successful.
+# Compile of tb2mealy.vhd was successful.
+# Compile of bcd59.vhd was successful.
+# Compile of bcd23.vhd was successful.
+# 5 compiles, 0 failed with no errors. 
+do counttester
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.bcd59(arch)#1
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 50 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 100 ns  Iteration: 2  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 250 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 350 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 450 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 550 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 650 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 750 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 850 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 950 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1250 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1250 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1250 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1250 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1350 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1450 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1550 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1650 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1750 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1850 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1950 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 2050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 2150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 2150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 2150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 2150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 2250 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 2250 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 2250 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 2250 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 2350 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 2450 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 2550 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 2650 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 2750 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 2850 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 2950 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 3050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 3150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 3150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 3150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 3150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 3250 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 3250 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 3250 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 3250 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 3350 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 3450 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 3550 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 3650 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 3750 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 3850 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 3950 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 4050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 4150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 4150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 4150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 4150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 4250 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 4250 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 4250 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 4250 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 4350 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 4450 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 4550 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 4650 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 4750 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 4850 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 4950 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 5050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 5150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 5150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 5150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 5150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 5250 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 5250 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 5250 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 5250 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 5350 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 5450 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 5550 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 5650 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 5750 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 5850 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 5950 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 6050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 6150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 6150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 6150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 6150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 6250 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 6250 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 6250 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 6250 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 6350 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 6450 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 6550 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 6650 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 6750 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 6850 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 6950 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 7050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 7150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 7150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 7150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 7150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 7250 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 7250 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 7250 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 7250 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 7350 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 7450 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 7550 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 7650 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 7750 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 7850 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 7950 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 8050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 8150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 8150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 8150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 8150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 8250 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 8250 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 8250 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 8250 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 8350 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 8450 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 8550 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 8650 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 8750 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 8850 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 8950 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 9050 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 9150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 9150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 9150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 9150 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 9250 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 9250 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 9250 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 9250 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 9350 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 9450 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 9550 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 9650 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 9750 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 9850 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 9950 ns  Iteration: 1  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 10050 ns  Iteration: 1  Instance: /bcd59
+# Compile of mealy.vhd was successful.
+# Compile of tb1mealy.vhd was successful.
+# Compile of tb2mealy.vhd was successful.
+# Compile of bcd59.vhd was successful.
+# Compile of bcd23.vhd was successful.
+# 5 compiles, 0 failed with no errors. 
+do counttester
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.bcd59(arch)#1
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /bcd59
+# Compile of mealy.vhd was successful.
+# Compile of tb1mealy.vhd was successful.
+# Compile of tb2mealy.vhd was successful.
+# Compile of bcd59.vhd was successful.
+# Compile of bcd23.vhd was successful.
+# 5 compiles, 0 failed with no errors. 
+do counttester
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.bcd59(arch)#1
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /bcd59
+# Compile of mealy.vhd was successful.
+# Compile of tb1mealy.vhd was successful.
+# Compile of tb2mealy.vhd was successful.
+# Compile of bcd59.vhd failed with 1 errors.
+# Compile of bcd23.vhd was successful.
+# 5 compiles, 1 failed with 1 error. 
+# Compile of mealy.vhd was successful.
+# Compile of tb1mealy.vhd was successful.
+# Compile of tb2mealy.vhd was successful.
+# Compile of bcd59.vhd failed with 1 errors.
+# Compile of bcd23.vhd was successful.
+# 5 compiles, 1 failed with 1 error. 
+# Compile of mealy.vhd was successful.
+# Compile of tb1mealy.vhd was successful.
+# Compile of tb2mealy.vhd was successful.
+# Compile of bcd59.vhd was successful.
+# Compile of bcd23.vhd was successful.
+# 5 compiles, 0 failed with no errors. 
+do counttester
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.bcd59(arch)#1
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /bcd59
+# Compile of mealy.vhd was successful.
+# Compile of tb1mealy.vhd was successful.
+# Compile of tb2mealy.vhd was successful.
+# Compile of bcd59.vhd was successful.
+# Compile of bcd23.vhd was successful.
+# 5 compiles, 0 failed with no errors. 
+do counttester
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.bcd59(arch)#1
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /bcd59
+# Compile of mealy.vhd was successful.
+# Compile of tb1mealy.vhd was successful.
+# Compile of tb2mealy.vhd was successful.
+# Compile of bcd59.vhd was successful.
+# Compile of bcd23.vhd was successful.
+# 5 compiles, 0 failed with no errors. 
+do counttester
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.bcd59(arch)#1
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /bcd59
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /bcd59
+# Compile of mealy.vhd was successful.
+# Compile of tb1mealy.vhd was successful.
+# Compile of tb2mealy.vhd was successful.
+# Compile of bcd59.vhd was successful.
+# Compile of bcd23.vhd was successful.
+# 5 compiles, 0 failed with no errors. 
+vsim -voptargs=+acc work.bcd23
+# vsim -voptargs=+acc work.bcd23 
+# ** Note: (vsim-3812) Design is being optimized...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.bcd23(arch)#1
+do counttester
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
+# ** Error: (vish-4014) No objects found matching 'ce2next'.
+# Error in macro ./counttester line 5
+# (vish-4014) No objects found matching 'ce2next'.
+#     while executing
+# "add wave count clk reset ceo ce2next ce2"
+do counttester
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /bcd23
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /bcd23
+# Compile of mealy.vhd was successful.
+# Compile of tb1mealy.vhd was successful.
+# Compile of tb2mealy.vhd was successful.
+# Compile of bcd59.vhd was successful.
+# Compile of bcd23.vhd was successful.
+# 5 compiles, 0 failed with no errors. 
+do counttester
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.bcd23(arch)#1
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /bcd23
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /bcd23
+# Compile of mealy.vhd was successful.
+# Compile of tb1mealy.vhd was successful.
+# Compile of tb2mealy.vhd was successful.
+# Compile of bcd59.vhd was successful.
+# Compile of bcd23.vhd was successful.
+# 5 compiles, 0 failed with no errors. 
+do counttester
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.bcd23(arch)#1
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /bcd23
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /bcd23
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /bcd23
+# Compile of mealy.vhd was successful.
+# Compile of tb1mealy.vhd was successful.
+# Compile of tb2mealy.vhd was successful.
+# Compile of bcd59.vhd was successful.
+# Compile of bcd23.vhd was successful.
+# Compile of genhz.vhd failed with 1 errors.
+# 6 compiles, 1 failed with 1 error. 
+# Compile of mealy.vhd was successful.
+# Compile of tb1mealy.vhd was successful.
+# Compile of tb2mealy.vhd was successful.
+# Compile of bcd59.vhd was successful.
+# Compile of bcd23.vhd was successful.
+# Compile of genhz.vhd failed with 1 errors.
+# 6 compiles, 1 failed with 1 error. 
+# Compile of mealy.vhd was successful.
+# Compile of tb1mealy.vhd was successful.
+# Compile of tb2mealy.vhd was successful.
+# Compile of bcd59.vhd was successful.
+# Compile of bcd23.vhd was successful.
+# Compile of genhz.vhd was successful.
+# 6 compiles, 0 failed with no errors. 
+do counttester
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /bcd23
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /bcd23
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /bcd23
+vsim -voptargs=+acc work.genhz
+# vsim -voptargs=+acc work.genhz 
+# ** Note: (vsim-3812) Design is being optimized...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.genhz(arch)#1
+do genhz.do
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
+# Invalid time value: 1 s
+do genhz.do
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /genhz
+# ** Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+#    Time: 0 ns  Iteration: 0  Instance: /genhz
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /genhz
+# ** Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+#    Time: 500 ns  Iteration: 0  Instance: /genhz
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 500 ns  Iteration: 0  Instance: /genhz
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 500 ns  Iteration: 0  Instance: /genhz
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 500 ns  Iteration: 0  Instance: /genhz
+# ** Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+#    Time: 500 ns  Iteration: 1  Instance: /genhz
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 500 ns  Iteration: 1  Instance: /genhz
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 500 ns  Iteration: 1  Instance: /genhz
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1500 ns  Iteration: 0  Instance: /genhz
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1500 ns  Iteration: 0  Instance: /genhz
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 1500 ns  Iteration: 0  Instance: /genhz
+# Break key hit 
+# Simulation stop requested.
+# Simulation Breakpoint: Simulation stop requested.
+# MACRO ./genhz.do PAUSED at line 7
+# Compile of mealy.vhd was successful.
+# Compile of tb1mealy.vhd was successful.
+# Compile of tb2mealy.vhd was successful.
+# Compile of bcd59.vhd was successful.
+# Compile of bcd23.vhd was successful.
+# Compile of genhz.vhd was successful.
+# Compile of genhztest.vhd failed with 2 errors.
+# 7 compiles, 1 failed with 2 errors. 
+# Compile of mealy.vhd was successful.
+# Compile of tb1mealy.vhd was successful.
+# Compile of tb2mealy.vhd was successful.
+# Compile of bcd59.vhd was successful.
+# Compile of bcd23.vhd was successful.
+# Compile of genhz.vhd was successful.
+# Compile of genhztest.vhd failed with 1 errors.
+# 7 compiles, 1 failed with 1 error. 
+# Compile of mealy.vhd was successful.
+# Compile of tb1mealy.vhd was successful.
+# Compile of tb2mealy.vhd was successful.
+# Compile of bcd59.vhd was successful.
+# Compile of bcd23.vhd was successful.
+# Compile of genhz.vhd was successful.
+# Compile of genhztest.vhd failed with 1 errors.
+# 7 compiles, 1 failed with 1 error. 
+# Compile of mealy.vhd was successful.
+# Compile of tb1mealy.vhd was successful.
+# Compile of tb2mealy.vhd was successful.
+# Compile of bcd59.vhd was successful.
+# Compile of bcd23.vhd was successful.
+# Compile of genhz.vhd was successful.
+# Compile of genhztest.vhd was successful.
+# 7 compiles, 0 failed with no errors. 
+# Compile of mealy.vhd was successful.
+# Compile of tb1mealy.vhd was successful.
+# Compile of tb2mealy.vhd was successful.
+# Compile of bcd59.vhd was successful.
+# Compile of bcd23.vhd was successful.
+# Compile of genhz.vhd was successful.
+# Compile of genhztest.vhd was successful.
+# 7 compiles, 0 failed with no errors. 
+vsim -voptargs=+acc work.genhztest
+# vsim -voptargs=+acc work.genhztest 
+# ** Note: (vsim-3812) Design is being optimized...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.genhztest(arch)#1
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.genhz(arch)#1
+# Compile of mealy.vhd was successful.
+# Compile of tb1mealy.vhd was successful.
+# Compile of tb2mealy.vhd was successful.
+# Compile of bcd59.vhd was successful.
+# Compile of bcd23.vhd was successful.
+# Compile of genhz.vhd was successful.
+# Compile of genhztest.vhd was successful.
+# 7 compiles, 0 failed with no errors. 
+run 30000
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /genhztest/g
+# ** Warning: NUMERIC_STD.TO_UNSIGNED: vector truncated
+#    Time: 0 ns  Iteration: 0  Instance: /genhztest/g
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /genhztest/g

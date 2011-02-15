@@ -1,0 +1,35 @@
+library ieee ;
+  use ieee.std_logic_1164.all ;
+  use ieee.numeric_std.all ;
+  use ieee.std_logic_unsigned.all;
+entity bcd59 is
+  port (
+    clk, ce, reset : in std_logic;
+    ctrl : out std_logic_vector(5 downto 0) ;
+    ceo : out std_logic;  
+  ) ;
+end entity ; -- bcd59
+
+architecture arch of bcd59 is
+  signal : count std_logic_vector(5 downto 0);
+begin
+  clocked : process(clk, reset)
+  begin
+    if clk='1' and clk'event then
+      if reset='1' then
+        count <= 0;
+      else
+        if ce='1' then
+          if count = 59 then
+            count <= 0;
+          else
+            count <= count + 1;
+          end if ;
+        end if;
+      end if ;
+    end if ;
+    
+  end process ; -- clocked
+
+  ceo <= '1' when (ce='1' and count = 0), else '0';
+end architecture ; -- arch

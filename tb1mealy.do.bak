@@ -1,0 +1,7 @@
+-- mealy.do
+-- jesper josefsson
+-- 110214
+restart -f nowave
+view signals wave clk x
+add wave u q qp
+run 3000

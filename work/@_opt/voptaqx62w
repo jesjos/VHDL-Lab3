@@ -1,0 +1,252 @@
+m255
+K3
+13
+cModel Technology
+Z0 d/chalmers/users/jesjos
+T_opt
+Z1 Vn2:;8IVe4<jl:YmngYeSF1
+Z2 04 9 4 work genhztest arch 1
+Z3 =1-001109ab3744-4d5aee50-43bbf-34a6
+Z4 o-quiet -auto_acc_if_foreign -work work
+Z5 n@_opt
+Z6 OL;O;6.5b;42
+T_opt1
+Z7 V@4L>T_ZETc[4?9]_zSNJn1
+Z8 04 8 4 work tb1mealy test 1
+Z9 =12-001109ab3744-4d5a7bd0-9c2e3-72e8
+Z10 o-quiet -auto_acc_if_foreign -work work +acc
+Z11 n@_opt1
+R6
+T_opt2
+Z12 VOQ>09L8RYl`3oNzDF`9W`3
+R8
+Z13 =1-001109ab3744-4d5a7494-bd05a-7136
+R4
+Z14 n@_opt2
+R6
+Ebcd23
+Z15 w1297784574
+Z16 DPx4 ieee 15 std_logic_arith 0 22 GJbAT?7@hRQU9IQ702DT]2
+Z17 DPx4 ieee 18 std_logic_unsigned 0 22 hEMVMlaNCR^<OOoVNV;m90
+Z18 DPx4 ieee 11 numeric_std 0 22 =NSdli^?T5OD8;4F<blj<3
+Z19 DPx4 ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+Z20 d/chalmers/users/jesjos/VHDL/Labb3
+Z21 8/chalmers/users/jesjos/VHDL/Labb3/bcd23.vhd
+Z22 F/chalmers/users/jesjos/VHDL/Labb3/bcd23.vhd
+l0
+L6
+Z23 VKNGJ;YEIal>CVRlICbocL0
+Z24 OL;C;6.5b;42
+32
+Z25 o-work work -2002 -explicit
+Z26 tExplicit 1
+Z27 !s100 Innl=a@KN40fC>YObA9@N3
+Aarch
+R16
+R17
+R18
+R19
+Z28 DEx4 work 5 bcd23 0 22 KNGJ;YEIal>CVRlICbocL0
+l17
+L14
+Z29 VN[L2<0bV7V9IC<kAj:LE<3
+R24
+32
+Z30 Mx4 4 ieee 14 std_logic_1164
+Z31 Mx3 4 ieee 11 numeric_std
+Z32 Mx2 4 ieee 18 std_logic_unsigned
+Z33 Mx1 4 ieee 15 std_logic_arith
+R25
+R26
+Z34 !s100 KED8l>J5BPiI>K9TFVCY:1
+Ebcd59
+Z35 w1297784031
+R16
+R17
+R18
+R19
+R20
+Z36 8/chalmers/users/jesjos/VHDL/Labb3/bcd59.vhd
+Z37 F/chalmers/users/jesjos/VHDL/Labb3/bcd59.vhd
+l0
+L5
+Z38 VLmGTC[JSM@JmZ7Y2HkM:Y3
+R24
+32
+R25
+R26
+Z39 !s100 o6:?E2H?ElSocf`O;0B^C0
+Aarch
+R16
+R17
+R18
+R19
+Z40 DEx4 work 5 bcd59 0 22 LmGTC[JSM@JmZ7Y2HkM:Y3
+l16
+L13
+Z41 V@I<3T9OdMg1`250]RF`_N3
+R24
+32
+R30
+R31
+R32
+R33
+R25
+R26
+Z42 !s100 LD;hJA]kEf[OkaVddLod91
+Egenhz
+Z43 w1297804519
+R16
+R17
+R18
+R19
+R20
+Z44 8/chalmers/users/jesjos/VHDL/Labb3/genhz.vhd
+Z45 F/chalmers/users/jesjos/VHDL/Labb3/genhz.vhd
+l0
+L5
+Z46 VDFi7@G<Z3W_B2P7M47=341
+R24
+32
+R25
+R26
+Z47 !s100 @;N[gMD_n<jY^7VkdcaO<1
+Aarch
+R16
+R17
+R18
+R19
+Z48 DEx4 work 5 genhz 0 22 DFi7@G<Z3W_B2P7M47=341
+l14
+L12
+Z49 VWKVOZN7o6moeQVj]QUHZP0
+R24
+32
+R30
+R31
+R32
+R33
+R25
+R26
+Z50 !s100 zDC?iLbT8FnTilaYaPNfJ2
+Egenhztest
+Z51 w1297804859
+Z52 DPx17 __model_tech/ieee 11 numeric_std 0 22 =NSdli^?T5OD8;4F<blj<3
+Z53 DPx17 __model_tech/ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+32
+R20
+Z54 8/chalmers/users/jesjos/VHDL/Labb3/genhztest.vhd
+Z55 F/chalmers/users/jesjos/VHDL/Labb3/genhztest.vhd
+l0
+L5
+Z56 Vc[hYFI2Hl76]Q15ke;VW`1
+R24
+R25
+R26
+Z57 !s100 f=]CPJhmS9V>CWTJ6c2Z<3
+Aarch
+DPx17 __model_tech/ieee 15 std_logic_arith 0 22 GJbAT?7@hRQU9IQ702DT]2
+DPx17 __model_tech/ieee 18 std_logic_unsigned 0 22 hEMVMlaNCR^<OOoVNV;m90
+DEx38 /chalmers/users/jesjos/VHDL/Labb3/work 5 genhz 0 22 DFi7@G<Z3W_B2P7M47=341
+R52
+R53
+DEx38 /chalmers/users/jesjos/VHDL/Labb3/work 9 genhztest 0 22 c[hYFI2Hl76]Q15ke;VW`1
+32
+Mx4 17 __model_tech/ieee 14 std_logic_1164
+Mx3 17 __model_tech/ieee 11 numeric_std
+Mx2 17 __model_tech/ieee 18 std_logic_unsigned
+Mx1 17 __model_tech/ieee 15 std_logic_arith
+l17
+L8
+Z58 V3NRB59ci2APz=zBWCY>Fo3
+R24
+R25
+R26
+Z59 !s100 iET_[TI[NC3b:F:fB73g53
+Emealy
+Z60 w1297773153
+R18
+R19
+R20
+Z61 8/chalmers/users/jesjos/VHDL/Labb3/mealy.vhd
+Z62 F/chalmers/users/jesjos/VHDL/Labb3/mealy.vhd
+l0
+L5
+Z63 VfHC01]bRAnWRP;55CbZMS1
+R24
+32
+R25
+R26
+Z64 !s100 ?NOOQif0]9]JB1X>RMVUL0
+Aarch
+R18
+R19
+Z65 DEx4 work 5 mealy 0 22 fHC01]bRAnWRP;55CbZMS1
+l16
+L14
+Z66 VOl3f?cFAPTad34mIES0Cn3
+R24
+32
+Z67 Mx2 4 ieee 14 std_logic_1164
+Z68 Mx1 4 ieee 11 numeric_std
+R25
+R26
+Z69 !s100 Fo_<@JX<d[0[l=zDBab9K0
+Etb1mealy
+Z70 w1297775011
+R18
+R19
+R20
+Z71 8/chalmers/users/jesjos/VHDL/Labb3/tb1mealy.vhd
+Z72 F/chalmers/users/jesjos/VHDL/Labb3/tb1mealy.vhd
+l0
+L5
+Z73 VTDll`fcUNd0^325gcG2iS0
+R24
+32
+R25
+R26
+Z74 !s100 Y8lC?6;3M;M=fKkOX2CoZ0
+Atest
+R18
+R19
+Z75 DEx4 work 8 tb1mealy 0 22 TDll`fcUNd0^325gcG2iS0
+l24
+L12
+Z76 Vo0IS[^_:e>]RRdiNlajX:1
+R24
+32
+R67
+R68
+R25
+R26
+Z77 !s100 `KYd41dWDBgYJ5h7nMOXc1
+Etb2mealy
+Z78 w1297777705
+R18
+R19
+R20
+Z79 8/chalmers/users/jesjos/VHDL/Labb3/tb2mealy.vhd
+Z80 F/chalmers/users/jesjos/VHDL/Labb3/tb2mealy.vhd
+l0
+L5
+Z81 V>D904mY^[LFWg2lFPM7:=2
+R24
+32
+R25
+R26
+Z82 !s100 B=NN1>Nd@o:[4P[TVEeEV1
+Atest
+R18
+R19
+Z83 DEx4 work 8 tb2mealy 0 22 >D904mY^[LFWg2lFPM7:=2
+l23
+L11
+Z84 VHfY5jXF4iYCna95ekY1Z83
+R24
+32
+R67
+R68
+R25
+R26
+Z85 !s100 j6<1K1QZ^HLUz61N8jT[I2

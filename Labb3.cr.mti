@@ -1,0 +1,55 @@
+/chalmers/users/jesjos/VHDL/Labb3/bcd23.vhd {1 {vcom -work work -2002 -explicit -vopt /chalmers/users/jesjos/VHDL/Labb3/bcd23.vhd
+QuestaSim-64 vcom 6.5b Compiler 2009.05 May 21 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Compiling entity bcd23
+-- Compiling architecture arch of bcd23
+
+} {} {}} /chalmers/users/jesjos/VHDL/Labb3/tb1mealy.vhd {1 {vcom -work work -2002 -explicit -vopt /chalmers/users/jesjos/VHDL/Labb3/tb1mealy.vhd
+QuestaSim-64 vcom 6.5b Compiler 2009.05 May 21 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Compiling entity tb1mealy
+-- Compiling architecture test of tb1mealy
+
+} {} {}} /chalmers/users/jesjos/VHDL/Labb3/bcd59.vhd {1 {vcom -work work -2002 -explicit -vopt /chalmers/users/jesjos/VHDL/Labb3/bcd59.vhd
+QuestaSim-64 vcom 6.5b Compiler 2009.05 May 21 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Compiling entity bcd59
+-- Compiling architecture arch of bcd59
+
+} {} {}} /chalmers/users/jesjos/VHDL/Labb3/genhz.vhd {1 {vcom -work work -2002 -explicit -vopt /chalmers/users/jesjos/VHDL/Labb3/genhz.vhd
+QuestaSim-64 vcom 6.5b Compiler 2009.05 May 21 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Compiling entity genhz
+-- Compiling architecture arch of genhz
+
+} {} {}} /chalmers/users/jesjos/VHDL/Labb3/mealy.vhd {1 {vcom -work work -2002 -explicit -vopt /chalmers/users/jesjos/VHDL/Labb3/mealy.vhd
+QuestaSim-64 vcom 6.5b Compiler 2009.05 May 21 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Compiling entity mealy
+-- Compiling architecture arch of mealy
+
+} {} {}} /chalmers/users/jesjos/VHDL/Labb3/tb2mealy.vhd {1 {vcom -work work -2002 -explicit -vopt /chalmers/users/jesjos/VHDL/Labb3/tb2mealy.vhd
+QuestaSim-64 vcom 6.5b Compiler 2009.05 May 21 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Compiling entity tb2mealy
+-- Compiling architecture test of tb2mealy
+
+} {} {}}
